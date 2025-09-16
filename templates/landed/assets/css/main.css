@@ -3520,8 +3520,8 @@ input, select, textarea {
 			}
 
 				#banner .content .image img {
-					border-radius: 100%;
-					display: block;
+					/* border-radius: 100%; */
+					display: flex;
 					width: 100%;
 				}
 
