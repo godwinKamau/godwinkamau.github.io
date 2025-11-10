@@ -1,4 +1,3 @@
 # godwinkamau.github.io
 
-
-Check
+A url for the static page of my [portfolio](https://godwinkamau.github.io/)
